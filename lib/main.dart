@@ -3,7 +3,9 @@ import 'package:task/view/emptyActivityPage.dart';
 void main() {
 
 
-  runApp(const MyApp());
+
+  //help
+  // runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
